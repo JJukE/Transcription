@@ -1,0 +1,8 @@
+{
+  "container": "transcription",
+  "container_root": "/workspace/transcription",
+  "whisper_python": "/opt/conda/envs/whisper/bin/python",
+  "qwen_python": "/opt/conda/envs/qwen3-asr/bin/python",
+  "whisper_model_dir": "/workspace/model-cache/whisper",
+  "qwen_model_dir": "/workspace/model-cache/qwen"
+}

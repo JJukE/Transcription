@@ -1,0 +1,51 @@
+# Private recordings and generated transcripts, reports and receipts
+/input/
+/output/
+*.m4a
+*.mp4
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+*.opus
+*.mov
+*.mkv
+*.srt
+*.vtt
+
+# Machine-local settings, meeting-specific review data and runtime state
+/.local/
+/.network-state/
+/.backups/
+
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Downloaded models and caches
+.cache/
+/models/
+/checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Local credentials, logs and editor/OS metadata
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+._*

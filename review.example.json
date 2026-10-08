@@ -1,0 +1,14 @@
+{
+  "expected_sha256": {},
+  "reviewed_window_starts": [],
+  "findings": [],
+  "window_notes": [],
+  "review": {
+    "completed": false,
+    "scope": "Describe the windows actually read",
+    "method": "Supplied transcript-only review; no audio adjudication",
+    "recommended_default": null,
+    "observations": [],
+    "limitations": ["No gold reference or audio adjudication; no accuracy estimate"]
+  }
+}
